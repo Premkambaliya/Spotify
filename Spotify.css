@@ -1,0 +1,382 @@
+
+body{
+    background-color: rgb(27, 26, 26);
+   }  
+    .Spotify{
+display: flex;
+    }
+.main{
+    background-color: black;
+    width: 15%;
+    padding: 20px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.logo{
+    height: 37px;
+    width: 130px;
+}
+.Homeicon{
+    height: 20px;
+    width: 20px;
+    margin-top: 25px;
+    margin-left: 2px;
+}
+.Home{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+.Searchicon{
+    height: 20px;
+    width: 20px;
+    margin-top: 18px;
+    margin-left: 2px;
+}
+.Search{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+.Yourlibraryicon{
+    height: 20px;
+    width: 20px;
+    margin-top: 18px;
+    margin-left: 2px;
+}
+.Yourlibrary{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+.Createicon{
+    height: 20px;
+    width: 22px;
+    margin-top: 18px;
+    margin-left: 2px;
+}
+.Create{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+.LikedSongsicon{
+    height: 20px;
+    width: 22px;
+    margin-top: 14px;
+    margin-left: 2px;
+}
+.LikedSongs{
+    color: whitesmoke;
+    margin-left: 20px; 
+}
+.c1{
+    color: whitesmoke;
+    /* margin-top: 15px; */
+}
+.installicon{
+    height: 20px;
+    width: 20px;
+    margin-top: 18px;
+    margin-left: 2px;
+}
+.install{
+    color: whitesmoke;
+    margin-left: 20px; 
+}
+.YourEpisodesicon{
+    height: 18px;
+    width: 18px;
+    margin-top: 18px;
+    margin-left: 2px;
+}
+.Yourepisodes{
+    color: whitesmoke;
+    margin-left: 20px; 
+}
+.b{
+    display: flex;
+    flex-direction: column;
+    height: 70px;
+    width: 70px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.goodmorning{
+    color: whitesmoke;
+    margin-top: -15px;
+    font-size: 25px;
+}
+.User{
+    margin-left: 1000px;
+    margin-top: 15px;
+    height: 5%;
+}
+.i1{
+    margin-top: 150px;
+    margin-left: -1200px;
+    height: 10%;
+    background-color: rgb(78, 76, 76);
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding-right: 85px;
+}
+.img1{
+height: 100%;
+}
+.likedsongs{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.i2{
+    margin-top: -72px;
+    margin-left: -920px;
+    height: 10%;
+    background-color: rgb(78, 76, 76);
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding-right: 90px;
+}
+.img2{
+    height: 100%; 
+}
+.NeffexPlaylist{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.i3{
+    margin-top: -72px;
+    margin-left: -620px;
+    height: 10%;
+    background-color: rgb(78, 76, 76);
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding-right: 190px;  
+}
+.img3{
+    height: 100%; 
+}
+.KDA{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.i4{
+    margin-top: -72px;
+    margin-left: -290px;
+    height: 10%;
+    background-color: rgb(78, 76, 76);
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding-right: 150px; 
+}
+.Likedsongs{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.img4{
+    height: 100%; 
+}
+.i5{
+    margin-top: 20px;
+    margin-left: -1200px;
+    height: 10%;
+    background-color: rgb(78, 76, 76);
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding-right: 54px;
+}
+.img5{
+    height: 100%; 
+
+}
+.DanceElectronixMix{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.Showsyoumightlike{
+    margin-top: 350px;
+    margin-left: -1270px;
+    font-size: 25px;
+    color: whitesmoke;
+}
+.v{
+    margin-left: 9x00px;
+    font-size: small;
+    color: gray;
+}
+.img6{
+    /* margin-left: -1250px; */
+    height: 150px;
+}
+.i6{
+    margin-top: 15px;
+    border: 2px solid black;
+    background-color: black;
+    height: 250px;
+    margin-left: -1270px;
+    width: fit-content;
+    padding: 15px;
+
+}
+.WeaklyMotivatio{
+    color: whitesmoke;
+    /* display: flex; */
+    margin-left: 2px;
+}
+.z1{
+    color: gray;
+    margin-left: 2px;
+
+}
+.img7{
+    height: 150px;
+}
+.i7{
+    margin-top: 437px;
+    border: 2px solid black;
+    background-color: black;
+    height: 250px;
+    margin-left: -1070px;
+    width: fit-content;
+    padding: 15px;
+
+}
+.Meditationself{
+    color: whitesmoke;
+    margin-left: 2px;
+}
+.z2{
+    color: gray;
+    margin-left: 2px;
+
+}
+.img8{
+    height: 150px;
+}
+.i8{
+    margin-top: 437px;
+    border: 2px solid black;
+    background-color: black;
+    height: 250px;
+    margin-left: 18px;
+    width: fit-content;
+    padding: 15px;
+
+}
+.wordsbeyondact{
+    color: whitesmoke;
+    margin-left: 2px;
+}
+.z3{
+    color: gray;
+    margin-left: 2px;
+
+}
+.img9{
+    height: 150px;
+}
+.i9{
+    margin-top: 437px;
+    border: 2px solid black;
+    background-color: black;
+    height: 250px;
+    margin-left: 18px;
+    width: fit-content;
+    padding: 15px;
+
+}
+.wordsbeyondact{
+    color: whitesmoke;
+    margin-left: 2px;
+}
+.z4{
+    color: gray;
+    margin-left: 2px;
+
+}
+.img10{
+    height: 150px;
+}
+.i10{
+    margin-top: 437px;
+    border: 2px solid black;
+    background-color: black;
+    height: 250px;
+    margin-left: 18px;
+    width: fit-content;
+    padding: 15px;
+
+}
+.wordsbeyondact{
+    color: whitesmoke;
+    margin-left: 2px;
+}
+.z5{
+    color: gray;
+    margin-left: 2px;
+
+}
+.img11{
+    height: 150px;
+}
+.i11{
+    margin-top: 437px;
+    border: 2px solid black;
+    background-color: black;
+    height: 250px;
+    margin-left: 18px;
+    width: fit-content;
+    padding: 15px;
+
+}
+.wordsbeyondact{
+    color: whitesmoke;
+    margin-left: 2px;
+}
+.z6{
+    color: gray;
+    margin-left: 2px;
+
+}
+.y1{
+    border: 2px solid black;
+    display: flex;
+    background-color: black;
+    flex-direction: row;
+}
+.y2{
+    display: flex;
+}
+.DremingOn{
+    margin-top: 20px;
+    color: whitesmoke;
+    margin-left: 20px;
+}
+.M{
+    margin-top: 40px;
+    margin-left: -60px;
+    color: whitesmoke;
+    font-size: 10px;
+    color: gray;
+}
+.img12{
+    height: 75px;
+}
+.img13{
+    height: 20px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.img14{
+    height: 60px;
+    width: 550px;
+    margin-left: 291px;
+}
+.img15{
+    width: 280px;
+    height: 33px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
